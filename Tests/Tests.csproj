@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="InstaSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\InstaSharp\bin\Debug\netcoreapp3.1\InstaSharp.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+      <PackageReference Include="Sodium.Core" Version="1.2.3" />
+    </ItemGroup>
+
+</Project>
