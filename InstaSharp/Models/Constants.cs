@@ -10,7 +10,9 @@ namespace InstaSharp.Models {
 	public class ApiConstants {
 		public const string FriendshipApi = "https://www.instagram.com/web/friendships/";
 		public const string SearchApi = "https://www.instagram.com/web/search/topsearch/?query=";
-
+		public const string LoginApi = "https://www.instagram.com/accounts/login/ajax/";
+		public const string SharedDataApi = "https://www.instagram.com/data/shared_data/";
+		
 		public const string UserAgent =
 			"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36";
 	}
