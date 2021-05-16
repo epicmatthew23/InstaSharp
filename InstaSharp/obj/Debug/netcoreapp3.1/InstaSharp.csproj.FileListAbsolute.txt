@@ -1,9 +1,0 @@
-C:\Users\matth\RiderProjects\InstaSharp\InstaSharp\bin\Debug\netcoreapp3.1\InstaSharp.deps.json
-C:\Users\matth\RiderProjects\InstaSharp\InstaSharp\bin\Debug\netcoreapp3.1\InstaSharp.dll
-C:\Users\matth\RiderProjects\InstaSharp\InstaSharp\bin\Debug\netcoreapp3.1\InstaSharp.pdb
-C:\Users\matth\RiderProjects\InstaSharp\InstaSharp\obj\Debug\netcoreapp3.1\InstaSharp.csprojAssemblyReference.cache
-C:\Users\matth\RiderProjects\InstaSharp\InstaSharp\obj\Debug\netcoreapp3.1\InstaSharp.AssemblyInfoInputs.cache
-C:\Users\matth\RiderProjects\InstaSharp\InstaSharp\obj\Debug\netcoreapp3.1\InstaSharp.AssemblyInfo.cs
-C:\Users\matth\RiderProjects\InstaSharp\InstaSharp\obj\Debug\netcoreapp3.1\InstaSharp.csproj.CoreCompileInputs.cache
-C:\Users\matth\RiderProjects\InstaSharp\InstaSharp\obj\Debug\netcoreapp3.1\InstaSharp.dll
-C:\Users\matth\RiderProjects\InstaSharp\InstaSharp\obj\Debug\netcoreapp3.1\InstaSharp.pdb
