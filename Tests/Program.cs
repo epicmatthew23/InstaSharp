@@ -9,16 +9,15 @@ namespace Tests {
 		static void Main(string[] args) {
 
 			var accountData = new UserInformation {
-				Username = "userame",
-				Password = "password"
+				Username = "",
+				Password = ""
 			};
 			
 			var instagramService = new InstagramService(accountData);
 
-			LoginResultInformation resultInformation = instagramService.GrabLoginResultInformation();
-			
-			Console.WriteLine(resultInformation.IsAuthenticated);
-			
+			if (instagramService.IsAuthenticated) {
+				
+			}
 		}
 	}
 }
