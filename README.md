@@ -5,6 +5,6 @@ A simplistic Instagram wrapper, which utilizes Instagrams APIs. This wrapper mak
 
 * Follow 
 * UnFollow 
-* Usersname to ID (No OAth) 
+* Usersname to ID (No OAuth) 
 * Like posts 
 * Grab all comments 
